@@ -39,10 +39,8 @@ git remote add origin https://github.com/your-username/my-project.git
 
 # Set the main branch and push
 git branch -M main
-git push -u origin main
+git push -u origin main ```
 
-
-'''
 
 🔑 Essential Git Commands
 Command	What it Does

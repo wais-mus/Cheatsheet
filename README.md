@@ -33,4 +33,4 @@ Each section represents a weekly topic or domain I've studied, with clear comman
 - Cloud Architecture References  
 
 ---
-📌 *Maintained by [@wmavisuals](https://github.com/wmavisuals)*  
+
